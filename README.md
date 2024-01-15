@@ -3,7 +3,7 @@
 ### Pumahat Cybersecurity Team
 ¡Puedes poner en práctica tus conocimientos en los laboratorios que tenemos dentro de este repositorio! además de participar y unirte a nuestras redes sociales para que no te pierdas de eventos que tenemos preparados para aquellos entusiastas de la seguridad informática
 
-![](https://raw.githubusercontent.com/PumaHat/PumaHat/main/images/banner.png|56x56)
+![](https://raw.githubusercontent.com/PumaHat/PumaHat/main/images/banner.png)
 
 
 ## Tecnologías
